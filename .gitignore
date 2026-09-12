@@ -1,0 +1,17 @@
+# Scraped datasets — do NOT publish real people's personal data
+*.xlsx
+output.xlsx
+
+# Unrelated / old scripts and big input lists (keep the repo to lawfirm4.py)
+lawfirm1.py
+lawfirm2.py
+lawfirm3.py
+mhhomes.py
+mhvillages.txt
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
